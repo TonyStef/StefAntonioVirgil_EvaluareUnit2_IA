@@ -1,0 +1,14 @@
+Predare proiect UNIT 2 - Informatica Aplicata
+
+Buna ziua,
+
+Am sa incarc un document de tip Google drive , motivul fiind eroarea primita de la aplicatia teams când incerc sa incarc fisierul JS pentru proiect(am sa incarc un screenshot cu eroarea).Nu am reusit sa rezolv problema din pacate. 
+Am sa afisez si un link pentru repository ul de pe github cu proiectul.
+
+
+Proiectul include toate fisierele necesare (HTML, CSS, JS, imagini) si este realizat conform cerințelor. Daca aveți nevoie de informații suplimentare, va stau la dispoziție.
+
+Va multumesc,
+Stef Antonio Virgil
+
+
